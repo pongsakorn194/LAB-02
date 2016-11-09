@@ -89,11 +89,15 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
+![](https://github.com/pongsakorn194/LAB-02/blob/master/imgs/photo1.png?raw=true)
+
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในกานคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+ตอบ ไม่มีข้อผิดพลาด
 
 ##อ้างอิง
 
